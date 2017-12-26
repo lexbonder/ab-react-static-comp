@@ -8,5 +8,10 @@
 
 # My Comp
 
+# Desktop View
+
 ![my comp](desktop-view.png "Desktop View")
+
+# Mobile View
+
 ![my comp](mobile-view.png "Mobile View")
